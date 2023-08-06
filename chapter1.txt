@@ -1,2 +1,1 @@
-Hello 
-salam 1
+text part1 
